@@ -13,6 +13,8 @@ It' work by get language international code by get variable like that
 example.php?locale=it_IT
 `
 
+[here the locale code list](http://viralpatel.net/blogs/java-locale-list-tutorial/)
+
 in page use the syntax
 
 `<?php echo(__('hello world')); ?>`
